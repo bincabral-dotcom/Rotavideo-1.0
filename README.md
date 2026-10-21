@@ -1,5 +1,5 @@
-# GiraVídeo
-Aplicativo Android para girar, espelhar e exportar vídeos, com interface em português.
+# Rotavideo
+Aplicativo Android para girar, espelhar e exportar vídeos, com interface em português, com prévia estática que preserva a proporção do vídeo.
 
 ## Compilar no GitHub
 1. Envie este projeto para um repositório GitHub.
