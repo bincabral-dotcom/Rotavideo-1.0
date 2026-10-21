@@ -9,6 +9,6 @@ Aplicativo Android para girar, espelhar e exportar vídeos, com interface em por
 O projeto gera um APK de depuração em `app/build/outputs/apk/debug/app-debug.apk`. Também é possível compilar com Java 17 e Gradle 8.9+: `gradle assembleDebug`.
 
 ## Usar
-Escolha um vídeo, ajuste a rotação (−90°, +90° ou 180°) e o espelhamento horizontal/vertical. Toque em **Exportar vídeo** e selecione onde salvar o arquivo MP4. A exportação é feita no aparelho com Media3 Transformer, codificando a saída em H.264.
+Escolha um vídeo (a busca começa em DCIM e lembra a última pasta), ajuste a rotação (−90°, +90° ou 180°) e o espelhamento horizontal/vertical. Toque em **Exportar vídeo** para salvar automaticamente em DCIM/Rotavideo, com o nome original acrescido de _rotavideo. A exportação é feita no aparelho com Media3 Transformer, codificando a saída em H.264.
 
 Requisitos: Android 8.0 ou superior. O Samsung Galaxy A54 é compatível.
